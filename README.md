@@ -2,6 +2,8 @@
 
 Produktion
 
+Flutter App for manage production orders and more connected to SAP Business One
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
